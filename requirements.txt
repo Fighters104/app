@@ -9,4 +9,4 @@ urllib3==2.3.0
 watchdog==6.0.0
 wcwidth==0.2.13
 yfinance==0.2.54
-plotly.graph_objects
+plotly.graph_objects==5.23.0
